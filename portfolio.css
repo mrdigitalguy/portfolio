@@ -16,7 +16,7 @@ html
 }
 body
 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-size: 16px;
     font-weight: normal;
     overflow-x: hidden;
@@ -797,6 +797,7 @@ img
 {
     min-height: 100vh;
     background-color: var(--black-100);
+    font-family: 'Poppins', sans-serif !important;
 }
 .contact-section .contact-item
 {
