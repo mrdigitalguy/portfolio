@@ -100,7 +100,7 @@ img
     padding: 15px 40px;
     color: black;
     background: none;
-    border-bottom: 1px solid #000;
+    text-decoration: underline;
     font-weight: 600;
 }
 .section-padding
