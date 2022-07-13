@@ -96,6 +96,13 @@ img
     background-color: var(--main-color);
     border: none;
 }
+.btn-3 {
+    padding: 15px 40px;
+    color: black;
+    background: none;
+    border-bottom: 1px solid #000;
+    font-weight: 600;
+}
 .section-padding
 {
     padding: 80px 0;
