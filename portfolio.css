@@ -100,8 +100,13 @@ img
     padding: 15px 40px;
     color: black;
     background: none;
-    text-decoration: underline;
+    border: 1px solid #000;
     font-weight: 600;
+}
+.btn-3:hover {
+    color: var(--white);
+    background-color: var(--main-color);
+    border: none;
 }
 .section-padding
 {
